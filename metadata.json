@@ -1,0 +1,7 @@
+{
+  "name": "ZameenKothi - Property Sale & Purchase Portal",
+  "description": "Comprehensive real estate portal for Land, Plots, Kothis, SCOs, and Flats with role-based buyer, seller, and mediator accounts, OTP verification, and smart matchmaking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
